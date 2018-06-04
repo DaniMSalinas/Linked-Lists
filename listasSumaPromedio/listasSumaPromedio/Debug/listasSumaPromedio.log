@@ -1,0 +1,4 @@
+﻿  listasSumaPromedio.cpp
+c:\users\dms\source\repos\listassumapromedio\listassumapromedio\listassumapromedio.cpp(47): warning C4101: 'aux2': unreferenced local variable
+c:\users\dms\source\repos\listassumapromedio\listassumapromedio\listassumapromedio.cpp(71): warning C4101: 'n': unreferenced local variable
+  listasSumaPromedio.vcxproj -> c:\users\dms\source\repos\listasSumaPromedio\Debug\listasSumaPromedio.exe
